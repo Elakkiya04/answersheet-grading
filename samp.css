@@ -1,0 +1,37 @@
+    input {
+    display: inline-block;
+    padding: 24px 32px;
+    border-radius: 15px;
+    background: transparent;
+    border: 1px solid rgba(15, 15, 15, 0.1); 
+    color: rgba(248, 253, 248, 0.8);
+    font-size: 14px;
+    letter-spacing: 2px;
+    cursor: pointer;
+   
+  }
+  
+  input:hover {
+    background-color: rgba(249, 247, 247, 0.2);
+  }
+
+ 
+  
+ 
+ 
+  form{
+    background-image: url(ellucianlogo1.jpg);
+    width: 300px;
+    border: 1px ;
+    padding: 5px;
+    margin-top: 1px;
+    margin-bottom: 2px;
+    margin-left: 40%;
+    margin-right:100%;
+    color: rgb(18, 12, 12);
+  }
+ 
+     .button{
+      height: 25px;
+      width: 60px;
+     }
